@@ -1,4 +1,5 @@
 // July 23, 2016 -- Code clean up
+// The Ising model has been written in parallel version
 
 #include <cmath>
 #include <cstdlib>
